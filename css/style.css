@@ -10,7 +10,6 @@ body {
   }
   
   ul {
-    list-style-type: none;
     margin: 0;
     padding: 0;
   }
@@ -19,3 +18,14 @@ body {
     display: inline-block;
     margin-right: 20px;
   }
+.progress
+{
+    border-radius: 16px !important;
+    margin-bottom: 10px;
+}
+
+.progress-bar
+{
+    border-radius: 16px;
+    background: #000 !important;
+}
